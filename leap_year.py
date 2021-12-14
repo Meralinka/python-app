@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-herhangi bir satır ekledik
 
 
-=======
-herhangi bir satır ekledik 
-bir kaç satırlık işlem github üzerinden yapıldı "
->>>>>>> dev
+
+print("hello world")
+
+14,12,2021
+
